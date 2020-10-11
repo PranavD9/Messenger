@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998880767527",
+    "firebase_url": "https://teminipro.firebaseio.com",
+    "project_id": "teminipro",
+    "storage_bucket": "teminipro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998880767527:android:ae8a9a3554089e0eb5e802",
+        "android_client_info": {
+          "package_name": "com.example.teminipro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998880767527-dfojql6lpj04f0j9aju77e7bdih76kqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teminipro",
+            "certificate_hash": "997254fc2992f9a93f009b823b0225284f4c2498"
+          }
+        },
+        {
+          "client_id": "998880767527-m3e0hu4cd7lapmopuv9cgro83uvc2h64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1uIdUnftcoH0MasnZm5Ye1nOIrn8WxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998880767527-m3e0hu4cd7lapmopuv9cgro83uvc2h64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
